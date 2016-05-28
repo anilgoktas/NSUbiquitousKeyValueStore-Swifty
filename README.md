@@ -1,0 +1,2 @@
+# NSUbiquitousKeyValueStore-Swifty
+NSUbiquitousKeyValueStore implementation of SwiftyUserDefaults
